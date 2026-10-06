@@ -1,0 +1,8 @@
+f=open("notes.txt","w")
+f.write("MAX")
+f.write("\n Reading")
+f=open("notes.txt","r")
+print(f.readline())
+f=open("notes.txt","a")
+f.write("\nHave a nice day")
+f.close()

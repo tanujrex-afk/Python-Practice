@@ -1,0 +1,8 @@
+import matplotlib.pyplot as plt
+x1=[0,1,2,3]
+y1=[3,8,1,10]
+x2=[0,1,2,3]
+y2=[6,2,7,11]
+plt.plot(x1,y1)
+plt.plot(x2,y2)
+plt.show()
