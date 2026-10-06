@@ -4,3 +4,4 @@ marks=np.array([[80,70,90],
                [90,95,88]])
 print(np.sum(marks,axis=1))
 print(np.mean(marks,axis=1))
+# Hello
